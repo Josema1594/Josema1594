@@ -3,13 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Josema1594&color=blueviolet&style=for-the-badge" alt="Visitas al perfil"/>&nbsp;
-  <img src="https://img.shields.io/badge/FullStack%20Developer-%2300b894?style=for-the-badge&logo=code&logoColor=white" alt="FullStack Developer"/>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Web;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo&font=Fira%20Code&center=true&width=440&height=50&duration=4000&pause=1000" alt="Texto animado">
 </div>
+
+## 🛠️ Tecnologías
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,angular,react,vite,html,css,tailwind,js,ts,github,git" alt="Vscode, Angular, React, Vite, HTML, CSS, Tailwind CSS, JavaScript, Typescript, GitHub, Git"/>
@@ -31,8 +28,11 @@
   <a href="https://josemanuelgarcia.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Josema1594&color=blueviolet&style=for-the-badge" alt="Visitas al perfil"/>&nbsp;
+  <img src="https://img.shields.io/badge/FullStack%20Developer-%2300b894?style=for-the-badge&logo=code&logoColor=white" alt="FullStack Developer"/>
 </div>
-
+</div>
 
 ## 📊 Estadísticas de GitHub
 
