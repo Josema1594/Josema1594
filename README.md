@@ -33,3 +33,10 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
+
+#### 🎯 Proyectos Destacados
+
+<div align="center">
+  <a href="https://github.com/Josema1594/JoseManuelGarcia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josema1594&repo=JoseManuelGarcia&theme=radical" alt="Proyecto 1"/>
+  </a>
