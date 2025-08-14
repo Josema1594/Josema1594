@@ -41,10 +41,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josema1594&layout=compact&langs_count=8&theme=radical" alt="Lenguajes más usados"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josema1594&theme=radical" alt="Racha de contribuciones"/>
-</div>
-
 ## 🎯 Proyectos Destacados
 
 <div align="center">
